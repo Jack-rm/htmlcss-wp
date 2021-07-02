@@ -37,6 +37,8 @@ footer{
     margin-bottom: 20px;
 }
 
+/*Utilizzo di linear-gradient per trasparenza immagine*/
+
 #jumbotron{
     width: 100%;
     height: 600px;
@@ -125,6 +127,8 @@ footer{
     font-size: 30px;
     color: red;
 }
+
+/* Utilizzo di un div dentro un div per trasparenza immagini */
 
 .middle-img-container{
     width: 100%;
